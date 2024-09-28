@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 1"
-author: "Hojun Chung, Songhwai Oh"
+title: "Towards Defensive
+Autonomous Driving: Collecting and Probing Driving Demonstrations of Mixed Qualities"
+author: "Jeongwoo Oh, Gunmin Lee, Jeongeun Park, Wooseok Oh, Jaeseok Heo, Hojun Chung, Do Hyung
+Kim, Byungkyu Park, Chang-Gun Lee, Sungjoon Choi, and Songhwai Oh"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+category: conferences
+permalink: /publication/r3dataset
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2022-10-01
+venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

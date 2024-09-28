@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 4"
-author: "Hojun Chung, Songhwai Oh"
+title: "Adversarial
+Environment Design via Regret-Guided Diffusion Models"
+author: "Hojun Chung, Junseo Lee, Minsoo Kim, Dohyeong Kim, and Songhwai Oh"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+permalink: /publication/add
+date: 2024-12-09
+venue: 'Advances in Neural Information
+Processing Systems (NeurIPS)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
