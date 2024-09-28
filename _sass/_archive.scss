@@ -186,7 +186,7 @@
 
     @include breakpoint($small) {
       .archive__item-teaser {
-        @include span(5 of 12);
+        @include span(7 of 12);
       }
 
       .archive__item-body {
@@ -209,7 +209,7 @@
       text-align: right;
 
       .archive__item-teaser {
-        @include span(5 of 12 rtl);
+        @include span(7 of 12 rtl);
       }
 
       .archive__item-body {
@@ -233,7 +233,7 @@
 
       .archive__item-teaser {
         margin: 0 auto;
-        width: span(5 of 12);
+        width: span(7 of 12);
       }
 
       .archive__item-body {
