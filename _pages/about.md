@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 12pt;">I am a Ph.D. candidate in the [Robot Learning Laboratory (RLLAB)](https://rllab.snu.ac.kr/) at Seoul National University, South Korea. My research interests lie at the intersection of robotics and machine learning algorithms, with the goal of enabling autonomous agents to perform complex tasks. Recently, I have been focusing on training robust agent policies through reinforcement learning and unsupervised environment design.</span>
+<span style="font-size: 12pt;">I am a Ph.D. candidate in the [Robot Learning Laboratory (RLLAB)](https://rllab.snu.ac.kr/) at Seoul National University, South Korea. My research interests lie at the intersection of robotics and machine learning algorithms, with the goal of enabling autonomous agents to conduct complex tasks. Recently, I have been focusing on training robust agent policies through reinforcement learning and unsupervised environment design.</span>
 
 <span style="font-size: 12pt;">**Research Interests**: Robot Learning, Reinforcement Learning, Unsupervised Environment Design, and Generative Simulation.</span>
 
