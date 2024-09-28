@@ -38,3 +38,7 @@ ___
 - <span style="font-size: 12pt;"><strong>June 2024:</strong> Gave a talk at the *SNU-LG AI Tech & Talent Conference*.</span>
 - <span style="font-size: 12pt;"><strong>June 2024:</strong> Received the **2<sup>nd</sup> prize** in the *Creative Independent AI Research Competition, Seoul National University*.</span>
 - <span style="font-size: 12pt;"><strong>May 2024:</strong> Presented at *ICRA 2024* on "MAC-ID: Multi-Agent Reinforcement Learning with Local Coordination for Individual Diversity."</span>
+
+___
+
+<span style="font-size: 11pt;">This website is built using an open-source homepage template. Special thanks to the [academicpages](https://github.com/academicpages/academicpages) template for providing the foundation.</span>

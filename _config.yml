@@ -21,7 +21,7 @@ repository               : "Hojunian/hojunian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hojun.jpg"
   name             : "Hojun Chung"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in RLLAB, SNU"
