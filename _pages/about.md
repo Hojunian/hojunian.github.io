@@ -33,9 +33,9 @@ ___
 
 ### News
 
-- **Sep 2024:** Our paper "Adversarial Environment Design via Regret-Guided Diffusion Models" was accepted to *NeurIPS 2024* as a **spotlight**.
-- **Sep 2024:** Our paper "Spectral-Risk Safe Reinforcement Learning with Convergence Guarantees" was accepted to *NeurIPS 2024*.
-- **Jun 2024:** Gave a talk at *SNU-LG AI Tech & Talent Conference*
-- **Jun 2024:** Received **2<sup>nd</sup> prize** in *Creative Independent AI Research Competition, Seoul National University*.
+- **Sep. 2024:** Our paper "Adversarial Environment Design via Regret-Guided Diffusion Models" was accepted to *NeurIPS 2024* as a **spotlight**.
+- **Sep. 2024:** Our paper "Spectral-Risk Safe Reinforcement Learning with Convergence Guarantees" was accepted to *NeurIPS 2024*.
+- **June 2024:** Gave a talk at *SNU-LG AI Tech & Talent Conference*
+- **June 2024:** Received **2<sup>nd</sup> prize** in *Creative Independent AI Research Competition, Seoul National University*.
 - **May 2024:** Presented at *ICRA 2024* on "MAC-ID: Multi-Agent
 Reinforcement Learning with Local Coordination for Individual Diversity".
