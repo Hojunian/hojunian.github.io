@@ -1,12 +1,11 @@
 ---
-title: "Adversarial
-Environment Design via Regret-Guided Diffusion Models"
-author: "Hojun Chung, Junseo Lee, Minsoo Kim, Dohyeong Kim, and Songhwai Oh"
+title: "Spectral-Risk Safe Reinforcement Learning with Convergence Guarantees"
+author: "Dohyeong Kim, Taehyun Cho, Seungyub Han, Hojun Chung, Kyungjae Lee, and Songhwai Oh"
 collection: publications
 category: conferences
 permalink: /publication/add
-date: 2024-12-09
-award: '(Spotlight, Accepted)'
+date: 2024-12-08
+award: '(Accepted)'
 venue: 'Advances in Neural Information
 Processing Systems (NeurIPS)'
 slideurl:
