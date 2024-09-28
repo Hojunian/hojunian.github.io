@@ -30,15 +30,15 @@
         {{ title }}
     </h3>
     
-    <p style="font-size:11pt; margin-top: 0.4em; margin-bottom: 0.4em;"> <i>{{ post.author }}</i> </p>
+    <p id="authorlist" style="font-size:11pt; margin-top: 0.4em; margin-bottom: 0.4em;"> <i>{{ post.author }}</i> </p>
     <script>
       document.addEventListener("DOMContentLoaded", function() {
-        var authorElement = document.getElementById("author").innerHTML;
+        var authorElement = document.getElementById("authorlist").innerHTML;
         var highlightedAuthor = authorElement.replace(/Hojun Chung/g, '<span style="background-color: yellow; font-weight: bold;">Hojun Chung</span>');
-        document.getElementById("author").innerHTML = highlightedAuthor;
+        document.getElementById("authorlist").innerHTML = highlightedAuthor;
       });
     </script>
-    
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
