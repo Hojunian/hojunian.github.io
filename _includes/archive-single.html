@@ -30,19 +30,22 @@
         {{ title }}
     </h3>
     
-    <p class="authorlist" style="font-size:11pt; margin-top: 0.4em; margin-bottom: 0.4em;"> <i>{{ post.author }}</i> </p>
+    <p class="authorlist" style="font-size:11pt; margin-top: 0.4em; margin-bottom: 0.4em;"> 
+      <i>{{ post.author }}</i> 
+    </p>
+
     <script>
       document.addEventListener("DOMContentLoaded", function() {
-        // Get all elements with class 'author'
-        var authorElements = document.getElementsByClassName('authorlist');
+        // Get all elements with the class 'authorlist'
+        var authorElements = document.querySelectorAll('.authorlist i'); // Target the <i> element within the .authorlist class
 
         // Loop through all author elements and highlight "Hojun Chung"
-        for (var i = 0; i < authorElements.length; i++) {
-          var authorText = authorElements[i].innerHTML;
-          // Replace "Hojun Chung" with highlighted version
-          var highlightedAuthor = authorText.replace(/Hojun Chung/g, '<span style="background-color: skyblue; font-weight: bold;">Hojun Chung</span>');
-          authorElements[i].innerHTML = highlightedAuthor;
-        }
+        authorElements.forEach(function(element) {
+          var authorText = element.innerHTML;
+          // Replace all instances of "Hojun Chung" with the highlighted version
+          var highlightedAuthor = authorText.replace(/Hojun Chung/g, '<span style="background-color: yellow; font-weight: bold;">Hojun Chung</span>');
+          element.innerHTML = highlightedAuthor;
+        });
       });
     </script>
 
