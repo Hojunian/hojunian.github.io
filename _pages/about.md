@@ -19,12 +19,12 @@ redirect_from:
   <h3>Education</h3>
   <ul>
     <li><span style="font-size: 12pt;">Ph.D. in Artificial Intelligence, Seoul National University (Mar. 2022 - Present)</span></li>
-    <li><span style="font-size: 12pt;">B.S. in Mechanical Engineering, Seoul National University (Feb. 2022)</span></li>
+    <li><span style="font-size: 12pt;">B.S. in Mechanical Engineering, Seoul National University (Mar.2016 - Feb. 2022)</span></li>
   </ul>
 
   <h3>Work Experience</h3>
   <ul>
-    <li><span style="font-size: 12pt;">Worked as a robotics engineer at <a href="https://www.sequorrobotics.com/">Sequor Robotics, Inc</a>, from Mar. 2023 to Feb. 2024.</span></li>
+    <li><span style="font-size: 12pt;">Worked as a robotics engineer at <a href="https://www.sequorrobotics.com/">Sequor Robotics, Inc</a> (Mar. 2023 - Feb. 2024).</span></li>
   </ul>
   
 </details>
