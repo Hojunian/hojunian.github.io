@@ -6,11 +6,11 @@ collection: publications
 category: conferences
 permalink: /publication/add
 date: 2024-12-09
-award: '(Spotlight, Accepted)'
+award: '(Spotlight)'
 venue: 'Advances in Neural Information
 Processing Systems (NeurIPS)'
-slideurl:
-paperurl:
+slideurl: 'https://rllab-snu.github.io/projects/ADD/'
+paperurl: 'https://arxiv.org/abs/2410.19715'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
