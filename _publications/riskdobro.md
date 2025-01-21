@@ -7,7 +7,7 @@ permalink: /publication/add
 date: 2024-12-08
 venue: 'Advances in Neural Information
 Processing Systems (NeurIPS)'
-slideurl:
+slidesurl:
 paperurl: 'https://arxiv.org/abs/2405.18698'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
