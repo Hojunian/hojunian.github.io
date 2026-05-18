@@ -7,37 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 12pt;">I am a Ph.D. candidate in the [Robot Learning Laboratory (RLLAB)](https://rllab.snu.ac.kr/) at Seoul National University, South Korea. My research interests lie at the intersection of robotics and machine learning algorithms, with the goal of enabling autonomous agents to conduct complex tasks. Recently, I have been focusing on training robust agent policies through reinforcement learning and unsupervised environment design.</span>
+<span style="font-size: 12pt;">I am a Ph.D. candidate in the [Robot Learning Laboratory (RLLAB)](https://rllab.snu.ac.kr/) at Seoul National University, South Korea. My research interests lie at the intersection of robotics and machine learning algorithms, with the goal of enabling autonomous agents to conduct complex tasks. Recently, I have been focusing on developing scalable reinforcement learning algorithm using world models and unsupervised environment design.</span>
 
-<span style="font-size: 12pt;">**Research Interests**: Robot Learning, Reinforcement Learning, Unsupervised Environment Design, and Generative Simulation.</span>
+<span style="font-size: 12pt;">**Research Interests**: Reinforcement Learning, Environment Design, World Models, and Open-Ended Learning.</span>
 
 ---
 
-<details>
-  <summary><span style="font-size: 12pt;">Click to view education & work experiences</span></summary>
-  
-  <h3>Education</h3>
-  <ul>
-    <li><span style="font-size: 12pt;">Ph.D. in Artificial Intelligence, Seoul National University (Mar. 2022 - Present)</span></li>
-    <li><span style="font-size: 12pt;">B.S. in Mechanical Engineering, Seoul National University (Mar.2016 - Feb. 2022)</span></li>
-  </ul>
+<h3>Education</h3>
+<ul>
+  <li><span style="font-size: 12pt;">Ph.D. in Artificial Intelligence, Seoul National University (Mar. 2022 - Present)</span></li>
+  <li><span style="font-size: 12pt;">B.S. in Mechanical Engineering, Seoul National University (Mar.2016 - Feb. 2022)</span></li>
+</ul>
 
-  <h3>Work Experience</h3>
-  <ul>
-    <li><span style="font-size: 12pt;">Worked as a robotics engineer at <a href="https://www.sequorrobotics.com/">Sequor Robotics, Inc</a> (Mar. 2023 - Feb. 2024).</span></li>
-  </ul>
-  
-</details>
+<h3>Work Experience</h3>
+<ul>
+  <li><span style="font-size: 12pt;">Worked as a robotics engineer at <a href="https://www.sequorrobotics.com/">Sequor Robotics, Inc</a> (Mar. 2023 - Feb. 2024).</span></li>
+</ul>
 
 ___
 
 ### News
 
+- <span style="font-size: 12pt;"><strong>Apr. 2026:</strong> Our paper "Offline Reinforcement Learning with Universal Horizon Models" was accepted to *ICML 2026*.</span>
 - <span style="font-size: 12pt;"><strong>Sep. 2024:</strong> Our paper "Adversarial Environment Design via Regret-Guided Diffusion Models" was accepted to *NeurIPS 2024* as a **spotlight**.</span>
 - <span style="font-size: 12pt;"><strong>Sep. 2024:</strong> Our paper "Spectral-Risk Safe Reinforcement Learning with Convergence Guarantees" was accepted to *NeurIPS 2024*.</span>
-- <span style="font-size: 12pt;"><strong>June 2024:</strong> Gave a talk at the *SNU-LG AI Tech & Talent Conference*.</span>
-- <span style="font-size: 12pt;"><strong>June 2024:</strong> Received the **2<sup>nd</sup> prize** in the *Creative Independent AI Research Competition, Seoul National University*.</span>
-- <span style="font-size: 12pt;"><strong>May 2024:</strong> Presented at *ICRA 2024* on "MAC-ID: Multi-Agent Reinforcement Learning with Local Coordination for Individual Diversity."</span>
 
 ___
 

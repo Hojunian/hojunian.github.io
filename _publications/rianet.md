@@ -1,6 +1,5 @@
 ---
-title: "RIANet: Road Graph
-and Image Attention Network for Urban Autonomous Driving"
+title: "RIANet: Road Graph and Image Attention Network for Urban Autonomous Driving"
 author: "Timothy Ha, Jeongwoo Oh, Hojun Chung, Gunmin Lee, and Songhwai Oh"
 collection: publications
 category: conferences

@@ -1,14 +1,12 @@
 ---
-title: "Adversarial
-Environment Design via Regret-Guided Diffusion Models"
+title: "Adversarial Environment Design via Regret-Guided Diffusion Models"
 author: "Hojun Chung, Junseo Lee, Minsoo Kim, Dohyeong Kim, and Songhwai Oh"
 collection: publications
 category: conferences
 permalink: /publication/add
 date: 2024-12-09
 award: '(Spotlight)'
-venue: 'Advances in Neural Information
-Processing Systems (NeurIPS)'
+venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
 slidesurl: 'https://rllab-snu.github.io/projects/ADD/'
 paperurl: 'https://arxiv.org/abs/2410.19715'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'

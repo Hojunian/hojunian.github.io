@@ -1,6 +1,5 @@
 ---
-title: "Towards Defensive
-Autonomous Driving: Collecting and Probing Driving Demonstrations of Mixed Qualities"
+title: "Towards Defensive Autonomous Driving: Collecting and Probing Driving Demonstrations of Mixed Qualities"
 author: "Jeongwoo Oh, Gunmin Lee, Jeongeun Park, Wooseok Oh, Jaeseok Heo, Hojun Chung, Do Hyung
 Kim, Byungkyu Park, Chang-Gun Lee, Sungjoon Choi, and Songhwai Oh"
 collection: publications

@@ -1,14 +1,14 @@
 ---
-title: "MAC-ID: Multi-Agent Reinforcement Learning with Local Coordination for Individual Diversity"
-author: "Hojun Chung, Jeongwoo Oh, Jaeseok Heo, Gunmin Lee, and Songhwai Oh"
+title: "Offline Reinforcement Learning with Universal Horizon Models"
+author: "Hojun Chung, Junseo Lee, and Songhwai Oh"
 collection: publications
 category: conferences
-permalink: /publication/macid
+permalink: /publication/uhm
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2024-05-16
-venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
-slidesurl:
-paperurl: 'https://rllab.snu.ac.kr/publications/papers/2024_icra_macid.pdf'
+date: 2026-07-07
+venue: 'International Conerence on Machine Learning (ICML)'
+slidesurl: 'https://rllab-snu.github.io/projects/UHM/'
+paperurl: 'https://arxiv.org/abs/2605.15603'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
